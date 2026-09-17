@@ -1,5 +1,7 @@
 # C++ Data Structures Coursework
 
+> This coursework has been consolidated into [MakeItEzzz555/frederick-university-coursework](https://github.com/MakeItEzzz555/frederick-university-coursework). This repository is archived to preserve its history and URLs.
+
 C++ pointer, dynamic-memory, recursion, sorting, linked-list, tree and hash-map coursework.
 
 ## Contents

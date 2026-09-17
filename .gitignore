@@ -27,3 +27,10 @@ x64/
 build/
 CMakeFiles/
 CMakeCache.txt
+
+# Mac archival additions
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+SimpleAuth/data/users.json

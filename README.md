@@ -11,7 +11,7 @@ C++ pointer, dynamic-memory, recursion, sorting, linked-list, tree and hash-map 
 | `ex3` | Swaps two integers using pointer parameters. | C / C++ |
 | `ex4` | Counts characters by walking a null-terminated buffer. | C / C++ |
 | `lab2ex1` | Populates and prints a small fixed array of student records. | C / C++ |
-| `turotial3ex7` | Allocates integers individually and reads/prints/releases them; alternate version allocates the pointer array dynamically. | C / C++ |
+| `turotial3ex7` | Allocates integers individually and reads/prints/releases them. | C / C++ |
 | `BinarySearchTreeLab10` | Implements recursive BST insertion, traversals and height measurement. | C / C++ |
 | `HashMap2` | Bucket-chain hash map supports sign-up/login, table resizing and map display. | C / C++ |
 | `RevisionEx4` | Prints the first entered number of Fibonacci values using recursion. | C / C++ |
@@ -22,7 +22,7 @@ C++ pointer, dynamic-memory, recursion, sorting, linked-list, tree and hash-map 
 | `Tutorial3` | Allocates, fills, prints and releases an integer array. | C / C++ |
 | `tutorial3ex2` | Returns a dynamically allocated/populated array and releases it in main. | C / C++ |
 | `tutorial3ex4` | Counts even values in a fixed integer array via a pointer. | C / C++ |
-| `Tutorial-03-Maximum-Pointer` | Returns a pointer to the largest double in an array. Use the corrected member in source/repos/Ttrl3.rar or Frederick/D-Structures/Ttrl3.rar. | C / C++ |
+| `Tutorial-03-Maximum-Pointer` | Returns a pointer to the largest double in an array. The included `tutorial3ex5.cpp` is the corrected historical archive member. | C / C++ |
 | `tutorialex6` | Reads and updates an integer through a pointer to a pointer. | C / C++ |
 | `lab3ex1` | Sorts a fixed integer array in descending order and prints it. | C / C++ |
 | `revisionEx3` | Computes greatest common divisor of positive integers by recursive subtraction. | C / C++ |
